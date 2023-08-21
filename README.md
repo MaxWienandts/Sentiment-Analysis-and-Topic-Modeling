@@ -13,7 +13,7 @@ This project have 4 Jupyter notebook:
 - 3 Topic modeling.ipynb; and
 - 4 Production.ipynb.
 
-They should be runned in order. \
+They should be run in order. \
 The objective of the first notebook is to known better our dataset and to clean it. \
 The second notebook have the models related to sentiment analysis. \
 The third one have the topic modeling. \
